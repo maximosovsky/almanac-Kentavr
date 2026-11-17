@@ -1,0 +1,17 @@
+# Kentavr
+
+> A digital archive of the Russian methodological and game-practice almanac Kentavr (1990–2007).
+
+## About
+40 issue scan folders, 2,819 JPG files and 40 Russian Markdown issue texts.
+Texts have YAML metadata and HTML page comments.
+
+- Maintainer: Maxim Osovsky — https://www.linkedin.com/in/osovsky/
+- URL: https://github.com/maximosovsky/kentavr
+- Access: GitHub authorization is required while the repository is private.
+- License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+- Source: Electronic Library on Methodology — https://www.kentavr.mathedu.ru/
+
+## Docs
+- [README and issue catalog](https://github.com/maximosovsky/kentavr/blob/main/README.md)
+- [Detailed reference](https://raw.githubusercontent.com/maximosovsky/kentavr/main/llms-full.txt)
