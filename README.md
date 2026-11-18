@@ -14,7 +14,7 @@
 > Read the almanac as searchable text, then return to the scanned pages to check wording, layout and illustrations.
 
 <div align="center">
-  <a href="kentavr_1990_1/0000.jpg"><img src="kentavr_1990_1/0000.jpg" width="360" alt="Scanned Kentavr cover from the 1990 No. 1 issue folder"></a>
+  <a href="kentavr_1990_1/k_1990_1-0000.jpg"><img src="kentavr_1990_1/k_1990_1-0000.jpg" width="360" alt="Scanned Kentavr cover from the 1990 No. 1 issue folder"></a>
   <br><br>
   <a href="#concept">Concept</a> · <a href="#features">Features</a> · <a href="#quick-start">Quick Start</a> · <a href="#catalog">Issue Catalog</a> · <a href="#tech-stack">Tech Stack</a> · <a href="#roadmap">Roadmap</a> · <a href="#license">License</a> · <a href="#acknowledgements">Acknowledgements</a>
 </div>
@@ -180,11 +180,11 @@ Issue numbers follow the folder names exactly: annual numbering in the early yea
 ```text
 kentavr/
 |-- kentavr_1990_1/          # Scans and a corresponding text in md/
-|   |-- 0000.jpg
-|   |-- 0000_a.jpg
+|   |-- k_YYYY_N-0000.jpg
+|   |-- k_YYYY_N-0000_a.jpg
 |   `-- ...
 |-- kentavr_1990_2/          # Scans with a corresponding text in md/
-|   |-- 0000.jpg
+|   |-- k_YYYY_N-0000.jpg
 |   |-- 0001.jpg
 |   `-- ...
 |-- ...                     # Other issue scan folders
